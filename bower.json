@@ -1,0 +1,23 @@
+{
+  "name": "cc-ng",
+  "authors": [
+    "ilovezy <1518265554@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "Materialize": "materialize#~0.97.2",
+    "angular-animate": "~1.4.7"
+  }
+}
